@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("#00 SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("#01 OPERADORES Y ESTRUCTURAS DE CONTROL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dccb96b72f14d05ecd6395cd594b63440c64a09d")]
-[assembly: System.Reflection.AssemblyProductAttribute("#00 SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO")]
-[assembly: System.Reflection.AssemblyTitleAttribute("#00 SINTAXIS, VARIABLES, TIPOS DE DATOS Y HOLA MUNDO")]
+[assembly: System.Reflection.AssemblyProductAttribute("#01 OPERADORES Y ESTRUCTURAS DE CONTROL")]
+[assembly: System.Reflection.AssemblyTitleAttribute("#01 OPERADORES Y ESTRUCTURAS DE CONTROL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
