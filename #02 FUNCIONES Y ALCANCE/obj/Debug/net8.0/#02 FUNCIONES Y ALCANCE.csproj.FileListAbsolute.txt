@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\bin\Debug\net8.0\#02 FUNCIONES Y ALCANCE.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\bin\Debug\net8.0\#02 FUNCIONES Y ALCANCE.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\bin\Debug\net8.0\#02 FUNCIONES Y ALCANCE.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\bin\Debug\net8.0\#02 FUNCIONES Y ALCANCE.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\bin\Debug\net8.0\#02 FUNCIONES Y ALCANCE.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\refint\#02 FUNCIONES Y ALCANCE.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\#02 FUNCIONES Y ALCANCE.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#02 FUNCIONES Y ALCANCE\obj\Debug\net8.0\ref\#02 FUNCIONES Y ALCANCE.dll
