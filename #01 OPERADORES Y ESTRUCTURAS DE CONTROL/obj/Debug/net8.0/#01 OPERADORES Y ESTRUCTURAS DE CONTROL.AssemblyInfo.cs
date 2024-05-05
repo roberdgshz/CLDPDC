@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("#01 OPERADORES Y ESTRUCTURAS DE CONTROL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dccb96b72f14d05ecd6395cd594b63440c64a09d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41a0e47a1d1d1ccd72ffa2b6cdac72f51d3dbb79")]
 [assembly: System.Reflection.AssemblyProductAttribute("#01 OPERADORES Y ESTRUCTURAS DE CONTROL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("#01 OPERADORES Y ESTRUCTURAS DE CONTROL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

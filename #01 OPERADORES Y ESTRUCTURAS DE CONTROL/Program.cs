@@ -73,4 +73,55 @@ resultado = x >> 2;
 Console.WriteLine(resultado);
 Console.WriteLine();
 
+int edad = 18;
+if (edad >= 18)
+{
+    Console.WriteLine("Eres mayor de edad");
+}
+else
+{
+    Console.WriteLine("Eres menor de edad");
+}
+
+
+int contador = 0;
+while (contador < 5)
+{
+    Console.WriteLine("Contador: " + contador);
+    contador++;
+}
+
+contador = 0;
+do
+{
+    Console.WriteLine("Contador: " + contador);
+    contador++;
+} while (contador < 5);
+
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine("Índice: " + i);
+}
+
+string[] nombres2 = { "Juan", "María", "Pedro" };
+foreach (string nombre2 in nombres2)
+{
+    Console.WriteLine("Nombre: " + nombre2);
+}
+
+try
+{
+    int divisor = 0;
+    int resultado2 = 10 / divisor;
+    Console.WriteLine("Resultado: " + resultado2);
+}
+catch (DivideByZeroException ex)
+{
+    Console.WriteLine("Error: División por cero, error "+ex);
+}
+finally
+{
+    Console.WriteLine("Esto se ejecuta siempre");
+}
+
 //-Roberto Grijalva Sanchez
