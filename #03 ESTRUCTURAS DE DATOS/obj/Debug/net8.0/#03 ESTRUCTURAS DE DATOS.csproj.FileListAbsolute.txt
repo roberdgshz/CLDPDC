@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\bin\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\obj\Debug\net8.0\refint\#03 ESTRUCTURAS DE DATOS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\obj\Debug\net8.0\#03 ESTRUCTURAS DE DATOS.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#03 ESTRUCTURAS DE DATOS\obj\Debug\net8.0\ref\#03 ESTRUCTURAS DE DATOS.dll
