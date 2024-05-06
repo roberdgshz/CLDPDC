@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\bin\Debug\net8.0\#05 VALOR Y REFERENCIA.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\bin\Debug\net8.0\#05 VALOR Y REFERENCIA.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\bin\Debug\net8.0\#05 VALOR Y REFERENCIA.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\bin\Debug\net8.0\#05 VALOR Y REFERENCIA.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\bin\Debug\net8.0\#05 VALOR Y REFERENCIA.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\obj\Debug\net8.0\#05 VALOR Y REFERENCIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\obj\Debug\net8.0\#05 VALOR Y REFERENCIA.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\obj\Debug\net8.0\#05 VALOR Y REFERENCIA.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\obj\Debug\net8.0\#05 VALOR Y REFERENCIA.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\obj\Debug\net8.0\#05 VALOR Y REFERENCIA.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\obj\Debug\net8.0\#05 VALOR Y REFERENCIA.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\obj\Debug\net8.0\refint\#05 VALOR Y REFERENCIA.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\obj\Debug\net8.0\#05 VALOR Y REFERENCIA.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\obj\Debug\net8.0\#05 VALOR Y REFERENCIA.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#05 VALOR Y REFERENCIA\obj\Debug\net8.0\ref\#05 VALOR Y REFERENCIA.dll

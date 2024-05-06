@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\bin\Debug\net8.0\#07 PILAS Y COLAS.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\bin\Debug\net8.0\#07 PILAS Y COLAS.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\bin\Debug\net8.0\#07 PILAS Y COLAS.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\bin\Debug\net8.0\#07 PILAS Y COLAS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\bin\Debug\net8.0\#07 PILAS Y COLAS.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\obj\Debug\net8.0\#07 PILAS Y COLAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\obj\Debug\net8.0\#07 PILAS Y COLAS.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\obj\Debug\net8.0\#07 PILAS Y COLAS.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\obj\Debug\net8.0\#07 PILAS Y COLAS.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\obj\Debug\net8.0\#07 PILAS Y COLAS.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\obj\Debug\net8.0\#07 PILAS Y COLAS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\obj\Debug\net8.0\refint\#07 PILAS Y COLAS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\obj\Debug\net8.0\#07 PILAS Y COLAS.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\obj\Debug\net8.0\#07 PILAS Y COLAS.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#07 PILAS Y COLAS\obj\Debug\net8.0\ref\#07 PILAS Y COLAS.dll

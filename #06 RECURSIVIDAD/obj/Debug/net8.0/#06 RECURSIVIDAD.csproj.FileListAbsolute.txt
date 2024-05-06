@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\bin\Debug\net8.0\#06 RECURSIVIDAD.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\bin\Debug\net8.0\#06 RECURSIVIDAD.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\bin\Debug\net8.0\#06 RECURSIVIDAD.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\bin\Debug\net8.0\#06 RECURSIVIDAD.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\bin\Debug\net8.0\#06 RECURSIVIDAD.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\obj\Debug\net8.0\refint\#06 RECURSIVIDAD.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\obj\Debug\net8.0\#06 RECURSIVIDAD.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#06 RECURSIVIDAD\obj\Debug\net8.0\ref\#06 RECURSIVIDAD.dll
