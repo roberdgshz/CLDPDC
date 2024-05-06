@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\bin\Debug\net8.0\#04 CADENAS DE CARACTERES.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\bin\Debug\net8.0\#04 CADENAS DE CARACTERES.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\bin\Debug\net8.0\#04 CADENAS DE CARACTERES.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\bin\Debug\net8.0\#04 CADENAS DE CARACTERES.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\bin\Debug\net8.0\#04 CADENAS DE CARACTERES.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\refint\#04 CADENAS DE CARACTERES.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\#04 CADENAS DE CARACTERES.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#04 CADENAS DE CARACTERES\obj\Debug\net8.0\ref\#04 CADENAS DE CARACTERES.dll
