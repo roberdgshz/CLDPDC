@@ -109,6 +109,7 @@ do {
 
                 if (respuesta.ToLower() == "si") { repetir = true; } else { repetir = false; }
             } while (repetir);
+            Console.WriteLine();
             break;
         case 5:
             do
@@ -123,11 +124,13 @@ do {
 
                 if (respuesta.ToLower() == "si") { repetir = true; } else { repetir = false; }
             } while (repetir);
+            Console.WriteLine();
             break;
         case 6:
+            Console.WriteLine("Hasta la próxima!");
             servicio = false;
             break;
-        default: Console.WriteLine("Escoga otra opción.");
+        default: Console.WriteLine("Escoja otra opción.");
             break;
     }
 
