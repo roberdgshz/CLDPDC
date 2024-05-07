@@ -1,0 +1,5 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#10 EXCEPCIONES\obj\Debug\net8.0\#10 EXCEPCIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#10 EXCEPCIONES\obj\Debug\net8.0\#10 EXCEPCIONES.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#10 EXCEPCIONES\obj\Debug\net8.0\#10 EXCEPCIONES.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#10 EXCEPCIONES\obj\Debug\net8.0\#10 EXCEPCIONES.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#10 EXCEPCIONES\obj\Debug\net8.0\#10 EXCEPCIONES.sourcelink.json
