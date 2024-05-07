@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\bin\Debug\net8.0\#11 MANEJO DE FICHEROS.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\bin\Debug\net8.0\#11 MANEJO DE FICHEROS.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\bin\Debug\net8.0\#11 MANEJO DE FICHEROS.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\bin\Debug\net8.0\#11 MANEJO DE FICHEROS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\bin\Debug\net8.0\#11 MANEJO DE FICHEROS.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\obj\Debug\net8.0\#11 MANEJO DE FICHEROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\obj\Debug\net8.0\#11 MANEJO DE FICHEROS.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\obj\Debug\net8.0\#11 MANEJO DE FICHEROS.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\obj\Debug\net8.0\#11 MANEJO DE FICHEROS.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\obj\Debug\net8.0\#11 MANEJO DE FICHEROS.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\obj\Debug\net8.0\#11 MANEJO DE FICHEROS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\obj\Debug\net8.0\refint\#11 MANEJO DE FICHEROS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\obj\Debug\net8.0\#11 MANEJO DE FICHEROS.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\obj\Debug\net8.0\#11 MANEJO DE FICHEROS.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#11 MANEJO DE FICHEROS\obj\Debug\net8.0\ref\#11 MANEJO DE FICHEROS.dll
