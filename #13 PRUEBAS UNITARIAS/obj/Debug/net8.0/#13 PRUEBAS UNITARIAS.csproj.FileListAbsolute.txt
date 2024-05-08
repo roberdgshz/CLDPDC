@@ -1,0 +1,19 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\bin\Debug\net8.0\#13 PRUEBAS UNITARIAS.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\bin\Debug\net8.0\#13 PRUEBAS UNITARIAS.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\bin\Debug\net8.0\#13 PRUEBAS UNITARIAS.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\bin\Debug\net8.0\#13 PRUEBAS UNITARIAS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\bin\Debug\net8.0\#13 PRUEBAS UNITARIAS.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\#13 PRUEBAS UNITARIAS.csproj.AssemblyReference.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\#13 PRUEBAS UNITARIAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\#13 PRUEBAS UNITARIAS.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\#13 PRUEBAS UNITARIAS.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\#13 PRUEBAS UNITARIAS.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\#13 PRUEBAS UNITARIAS.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\#13 PRUE.D464E26D.Up2Date
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\#13 PRUEBAS UNITARIAS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\refint\#13 PRUEBAS UNITARIAS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\#13 PRUEBAS UNITARIAS.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\#13 PRUEBAS UNITARIAS.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#13 PRUEBAS UNITARIAS\obj\Debug\net8.0\ref\#13 PRUEBAS UNITARIAS.dll

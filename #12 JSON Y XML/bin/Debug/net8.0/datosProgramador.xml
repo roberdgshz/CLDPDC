@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Programador xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Nombre>Roberto Grijalva</Nombre>
+  <Edad>22</Edad>
+  <FechaNac>2001-06-04T00:00:00</FechaNac>
+  <ListaLenguajes>
+    <string>C#</string>
+    <string>C++</string>
+    <string>Java</string>
+    <string>Python</string>
+    <string>Javascript</string>
+    <string>Objective C</string>
+    <string>Swift</string>
+  </ListaLenguajes>
+</Programador>

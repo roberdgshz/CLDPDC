@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cX+nurZ+EjOczhfRAypjc1Q6FAW+/J2WhBlHMDs2d7N8dufqUMMoNWuiIzGIxuMQiNEVLTxFhJkMjX236PklYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lalo_\\OneDrive\\Escritorio\\CURSO DE LÓGICA DE PROGRAMACIÓN C#\\#13 PRUEBAS UNITARIAS\\#13 PRUEBAS UNITARIAS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lalo_\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

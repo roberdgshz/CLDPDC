@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\bin\Debug\net8.0\#14 FECHAS.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\bin\Debug\net8.0\#14 FECHAS.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\bin\Debug\net8.0\#14 FECHAS.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\bin\Debug\net8.0\#14 FECHAS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\bin\Debug\net8.0\#14 FECHAS.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\obj\Debug\net8.0\#14 FECHAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\obj\Debug\net8.0\#14 FECHAS.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\obj\Debug\net8.0\#14 FECHAS.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\obj\Debug\net8.0\#14 FECHAS.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\obj\Debug\net8.0\#14 FECHAS.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\obj\Debug\net8.0\#14 FECHAS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\obj\Debug\net8.0\refint\#14 FECHAS.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\obj\Debug\net8.0\#14 FECHAS.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\obj\Debug\net8.0\#14 FECHAS.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#14 FECHAS\obj\Debug\net8.0\ref\#14 FECHAS.dll

@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\bin\Debug\net8.0\#17 ITERACIONES.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\bin\Debug\net8.0\#17 ITERACIONES.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\bin\Debug\net8.0\#17 ITERACIONES.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\bin\Debug\net8.0\#17 ITERACIONES.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\bin\Debug\net8.0\#17 ITERACIONES.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\obj\Debug\net8.0\#17 ITERACIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\obj\Debug\net8.0\#17 ITERACIONES.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\obj\Debug\net8.0\#17 ITERACIONES.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\obj\Debug\net8.0\#17 ITERACIONES.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\obj\Debug\net8.0\#17 ITERACIONES.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\obj\Debug\net8.0\#17 ITERACIONES.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\obj\Debug\net8.0\refint\#17 ITERACIONES.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\obj\Debug\net8.0\#17 ITERACIONES.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\obj\Debug\net8.0\#17 ITERACIONES.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#17 ITERACIONES\obj\Debug\net8.0\ref\#17 ITERACIONES.dll

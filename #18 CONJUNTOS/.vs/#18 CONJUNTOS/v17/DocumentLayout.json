@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lalo_\\OneDrive\\Escritorio\\CURSO DE L\u00D3GICA DE PROGRAMACI\u00D3N C#\\#18 CONJUNTOS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5F862C3-732D-4F52-9437-CD02B161BB12}|#18 CONJUNTOS.csproj|c:\\users\\lalo_\\onedrive\\escritorio\\curso de l\u00F3gica de programaci\u00F3n c#\\#18 conjuntos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5F862C3-732D-4F52-9437-CD02B161BB12}|#18 CONJUNTOS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lalo_\\OneDrive\\Escritorio\\CURSO DE L\u00D3GICA DE PROGRAMACI\u00D3N C#\\#18 CONJUNTOS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lalo_\\OneDrive\\Escritorio\\CURSO DE L\u00D3GICA DE PROGRAMACI\u00D3N C#\\#18 CONJUNTOS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:11:36.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

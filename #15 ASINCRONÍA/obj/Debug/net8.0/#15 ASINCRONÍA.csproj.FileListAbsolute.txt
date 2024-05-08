@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\bin\Debug\net8.0\#15 ASINCRONÍA.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\bin\Debug\net8.0\#15 ASINCRONÍA.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\bin\Debug\net8.0\#15 ASINCRONÍA.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\bin\Debug\net8.0\#15 ASINCRONÍA.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\bin\Debug\net8.0\#15 ASINCRONÍA.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\obj\Debug\net8.0\#15 ASINCRONÍA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\obj\Debug\net8.0\#15 ASINCRONÍA.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\obj\Debug\net8.0\#15 ASINCRONÍA.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\obj\Debug\net8.0\#15 ASINCRONÍA.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\obj\Debug\net8.0\#15 ASINCRONÍA.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\obj\Debug\net8.0\#15 ASINCRONÍA.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\obj\Debug\net8.0\refint\#15 ASINCRONÍA.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\obj\Debug\net8.0\#15 ASINCRONÍA.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\obj\Debug\net8.0\#15 ASINCRONÍA.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#15 ASINCRONÍA\obj\Debug\net8.0\ref\#15 ASINCRONÍA.dll

@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\bin\Debug\net8.0\#19 ENUMERACIONES.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\bin\Debug\net8.0\#19 ENUMERACIONES.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\bin\Debug\net8.0\#19 ENUMERACIONES.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\bin\Debug\net8.0\#19 ENUMERACIONES.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\bin\Debug\net8.0\#19 ENUMERACIONES.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\obj\Debug\net8.0\#19 ENUMERACIONES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\obj\Debug\net8.0\#19 ENUMERACIONES.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\obj\Debug\net8.0\#19 ENUMERACIONES.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\obj\Debug\net8.0\#19 ENUMERACIONES.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\obj\Debug\net8.0\#19 ENUMERACIONES.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\obj\Debug\net8.0\#19 ENUMERACIONES.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\obj\Debug\net8.0\refint\#19 ENUMERACIONES.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\obj\Debug\net8.0\#19 ENUMERACIONES.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\obj\Debug\net8.0\#19 ENUMERACIONES.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#19 ENUMERACIONES\obj\Debug\net8.0\ref\#19 ENUMERACIONES.dll

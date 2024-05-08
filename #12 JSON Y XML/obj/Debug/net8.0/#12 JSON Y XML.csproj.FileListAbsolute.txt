@@ -1,0 +1,15 @@
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\bin\Debug\net8.0\#12 JSON Y XML.exe
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\bin\Debug\net8.0\#12 JSON Y XML.deps.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\bin\Debug\net8.0\#12 JSON Y XML.runtimeconfig.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\bin\Debug\net8.0\#12 JSON Y XML.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\bin\Debug\net8.0\#12 JSON Y XML.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\obj\Debug\net8.0\#12 JSON Y XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\obj\Debug\net8.0\#12 JSON Y XML.AssemblyInfoInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\obj\Debug\net8.0\#12 JSON Y XML.AssemblyInfo.cs
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\obj\Debug\net8.0\#12 JSON Y XML.csproj.CoreCompileInputs.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\obj\Debug\net8.0\#12 JSON Y XML.sourcelink.json
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\obj\Debug\net8.0\#12 JSON Y XML.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\obj\Debug\net8.0\refint\#12 JSON Y XML.dll
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\obj\Debug\net8.0\#12 JSON Y XML.pdb
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\obj\Debug\net8.0\#12 JSON Y XML.genruntimeconfig.cache
+C:\Users\lalo_\OneDrive\Escritorio\CURSO DE LÓGICA DE PROGRAMACIÓN C#\#12 JSON Y XML\obj\Debug\net8.0\ref\#12 JSON Y XML.dll
